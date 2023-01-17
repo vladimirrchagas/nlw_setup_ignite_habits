@@ -7,4 +7,4 @@
 - Vite
 - React
 - ReactNative
-- Expo
+- Expo!
