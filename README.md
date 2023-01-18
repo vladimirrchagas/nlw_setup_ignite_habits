@@ -12,3 +12,4 @@
 - Zod
 - DayJs
 - Phosphor-React
+- Nativewind

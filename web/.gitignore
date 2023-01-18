@@ -12,6 +12,17 @@ dist
 dist-ssr
 *.local
 
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
