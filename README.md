@@ -1,10 +1,13 @@
-# Tecnologies Used on This Project
+# Tecnologies and Libraries Used on This Project
 - Typescript
 - NodeJs
 - TailWindCss
 - PostCss
 - Prisma
+- Prisma ERD
 - Vite
 - React
 - ReactNative
 - Expo!
+- Zod
+- DayJs
