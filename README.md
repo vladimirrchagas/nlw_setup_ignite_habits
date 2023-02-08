@@ -15,3 +15,4 @@
 - Nativewind
 - Radix-ui
 - Clsx
+- React Navigation
