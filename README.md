@@ -16,3 +16,4 @@
 - Radix-ui
 - Clsx
 - React Navigation
+- Axios
