@@ -14,6 +14,6 @@
 - Phosphor-React
 - Nativewind
 - Radix-ui
-- Clsx
+- Clsx  
 - React Navigation
 - Axios
